@@ -9927,6 +9927,60 @@ img {
   max-width: 100%;
 }
 
+.main {
+  padding-top: 12em;
+  border-right: 1px solid #e8ebe4;
+}
+
+.message-dashboard {
+  text-align: center;
+}
+.message-dashboard img {
+  max-width: 40%;
+  padding-bottom: 1em;
+}
+.message-dashboard p {
+  padding-left: 5em;
+  padding-right: 5em;
+}
+.message-dashboard span {
+  font-weight: 700;
+}
+
+.sidebar {
+  border: 1px solid #e8ebe4;
+}
+
+.header {
+  border-bottom: 1px solid #e8ebe4;
+}
+
+.contact-menu__contenido h3 {
+  margin: 0;
+}
+.contact-menu__contenido p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.contact-menu__contenido > h3 {
+  font-size: 16px;
+}
+
+.contact-menu__button {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 2em;
+}
+
+.contact-menu__item {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #e8ebe4;
+  padding: 1em;
+}
+
 .button {
   padding: 1rem 4rem;
   cursor: pointer;

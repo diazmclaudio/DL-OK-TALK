@@ -1,0 +1,38 @@
+// base
+
+.sidebar{
+     border: 1px solid $platinum;
+}
+
+.header{
+     border-bottom: 1px solid $platinum;
+}
+
+.contact-menu__contenido{
+     h3{
+          margin: 0;
+     }
+
+     p{
+         margin: 0;
+         font-size: $small; 
+     }
+}
+
+.contact-menu__contenido>h3{
+     font-size: $medium;
+}
+
+.contact-menu__button{
+     display: flex;
+     justify-content: center;
+     align-content: center;
+     padding: 2em;
+}
+
+.contact-menu__item {
+     display: flex;
+     align-items: center;
+     border-top: 1px solid $platinum;
+     padding: 1em;
+}
